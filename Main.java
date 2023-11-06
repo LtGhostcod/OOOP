@@ -21,7 +21,7 @@ class override extends inheritance {
     override() {
         super();
         System.out.println("I am inside the override constructor " +
-                "method overriding is the very useful concept or function of inheritance ");
+                "method overriding is the very useful concept for functioning of inheritance ");
     }
 
     @Override
